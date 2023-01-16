@@ -141,6 +141,18 @@ footer ul li{
 	margin-left:2rem;	
 }
 
+footer a{
+	color:#777;
+}
+
+footer a:hover{
+	color:#000;
+}
+
+footer small{
+	font-size:0.8rem;
+}
+
 footer ul li img{
 	height:70px;
 	width:auto;
