@@ -846,4 +846,7 @@ ul.media .video-container{
 	header .logo img{
 		display:none;
 	}
+	p.right span{
+		display:none;
+	}
 }

@@ -32,7 +32,7 @@
 	<section class="background_dark minimal">
 		<div>
 			<p><i class="fa fa-phone"></i> <a href="tel:+44(0)1947 899685">01947 899685</a></p>
-			<p class="right"><i class="fa fa-envelope"></i> <a href="mailto:whishgroup@gmail.com">whishgroup@gmail.com</a></p>
+			<p class="right"><span><i class="fa fa-envelope"></i> <a href="mailto:whishgroup@gmail.com">whishgroup@gmail.com</a> | </span><a href="/donations/">Donate</a></p>
 		</div>
 	</section>
 	<section class="background_white">
