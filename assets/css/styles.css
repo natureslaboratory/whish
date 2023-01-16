@@ -617,7 +617,7 @@ ul.timeline li:nth-child(odd) img{
 }
 
 .background_dark a:hover{
-	color:var(--yellow);
+	color:#41c9f2;
 }
 
 .border_grey{
